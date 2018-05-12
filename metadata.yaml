@@ -1,0 +1,29 @@
+_repo: The-Vegetarian-Cook-BookSubstitutes-for-Flesh-Foods_43879
+_version: 0.1.0
+alternative_title: The vegetarian cook book
+covers:
+- cover_type: archival
+  image_path: 43879-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fulton, Edwin Giles
+    alias: Fulton, E. G. (Edwin Giles)
+    birthdate: 1867
+    gutenberg_agent_id: '42452'
+    url: http://www.gutenberg.org/2009/agents/42452
+description: ''
+gutenberg_issued: '2013-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43879'
+  lccn: '04011554'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking'
+- !lcsh 'Vegetarianism'
+- !lcc 'TX'
+title: 'Substitutes for Flesh Foods: Vegetarian Cook Book'
+url: http://www.gutenberg.org/ebooks/43879
